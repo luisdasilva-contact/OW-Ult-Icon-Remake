@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: 519e984260f85034c8aaea3ba5764a5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2724974101662381647
+    second: cross_bolt1_sprites_0
+  - first:
+      213: -8965101094884978660
+    second: cross_bolt1_sprites_1
+  - first:
+      213: -2501563762778106396
+    second: cross_bolt1_sprites_2
+  - first:
+      213: 1715822065336539009
+    second: cross_bolt1_sprites_3
+  - first:
+      213: 4748120192451918700
+    second: cross_bolt1_sprites_4
+  - first:
+      213: -4964692469421434081
+    second: cross_bolt1_sprites_5
+  - first:
+      213: -5724764087460367148
+    second: cross_bolt1_sprites_6
+  - first:
+      213: -6074000848479856168
+    second: cross_bolt1_sprites_7
+  - first:
+      213: -3978187205310073585
+    second: cross_bolt1_sprites_8
+  - first:
+      213: 8476340350324246341
+    second: cross_bolt1_sprites_9
+  - first:
+      213: 980330067313608883
+    second: cross_bolt1_sprites_10
+  - first:
+      213: -3559959367831741658
+    second: cross_bolt1_sprites_11
+  - first:
+      213: -2634114500171605384
+    second: cross_bolt1_sprites_12
+  - first:
+      213: -3036434365359978729
+    second: cross_bolt1_sprites_13
+  - first:
+      213: -5427590908751753385
+    second: cross_bolt1_sprites_14
+  - first:
+      213: 3127632624262812224
+    second: cross_bolt1_sprites_15
+  - first:
+      213: 7586652748625989889
+    second: cross_bolt1_sprites_16
+  - first:
+      213: -8174258286435557954
+    second: cross_bolt1_sprites_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cross_bolt1_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 778
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46b9b7028d01d520800000000000000
+      internalID: 2724974101662381647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cross_bolt1_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 0
+        width: 778
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c105ae7ad00959380800000000000000
+      internalID: -8965101094884978660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cross_bolt1_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 0
+        width: 778
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e51f98f209a84dd0800000000000000
+      internalID: -2501563762778106396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cross_bolt1_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 0
+        width: 778
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187592ed313dfc710800000000000000
+      internalID: 1715822065336539009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cross_bolt1_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 0
+        width: 778
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bb4fd8826b4e140800000000000000
+      internalID: 4748120192451918700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cross_bolt1_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 3890
+        y: 0
+        width: 778
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b141dc08ed91bb0800000000000000
+      internalID: -4964692469421434081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cross_bolt1_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 4668
+        y: 0
+        width: 778
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4f200c46d8d80b0800000000000000
+      internalID: -5724764087460367148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cross_bolt1_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 5446
+        y: 0
+        width: 778
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9dfe4e860d4bba0800000000000000
+      internalID: -6074000848479856168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cross_bolt1_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 6224
+        y: 0
+        width: 778
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f053d7960d3aac8c0800000000000000
+      internalID: -3978187205310073585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cross_bolt1_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 7002
+        y: 0
+        width: 778
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547036893a202a570800000000000000
+      internalID: 8476340350324246341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cross_bolt1_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 7780
+        y: 0
+        width: 778
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8ccd09005da9d00800000000000000
+      internalID: 980330067313608883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cross_bolt1_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 8558
+        y: 0
+        width: 778
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b909101db789ec0800000000000000
+      internalID: -3559959367831741658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cross_bolt1_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 9336
+        y: 0
+        width: 778
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ad09771deb17bd0800000000000000
+      internalID: -2634114500171605384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cross_bolt1_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 10114
+        y: 0
+        width: 778
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7170eec480b6cd5d0800000000000000
+      internalID: -3036434365359978729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cross_bolt1_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 10892
+        y: 0
+        width: 778
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f46b933d25da4b0800000000000000
+      internalID: -5427590908751753385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cross_bolt1_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 11670
+        y: 0
+        width: 778
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0429b150d45976b20800000000000000
+      internalID: 3127632624262812224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cross_bolt1_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 12448
+        y: 0
+        width: 778
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101d714aa74394960800000000000000
+      internalID: 7586652748625989889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cross_bolt1_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 13226
+        y: 0
+        width: 778
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd17b6c5633f8e80800000000000000
+      internalID: -8174258286435557954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e9c0e00c418e9874ea8bb02c37ddcd58
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
