@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3609312221472691838
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3609312221472691836}
+  - component: {fileID: 3609312221472691839}
+  m_Layer: 0
+  m_Name: UIMaster
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3609312221472691836
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3609312221472691838}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 83.70769, z: 54.708527}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3609312221472691839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3609312221472691838}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d89214a6348b52448ca92c48668fbb7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  canvas: {fileID: 0}
+  transitionAPrefab: {fileID: 7130011174293934913, guid: c72a9934d50e6e0438a73a08944e0200,
+    type: 3}
+  transitionBPrefab: {fileID: 974343332646970014, guid: 1b7401ba96c30c64e9f6ef16405d2b05,
+    type: 3}
+  flameRingAPrefab: {fileID: 8668317343915004899, guid: 502cbe7c956d0f6419586e4af8b25f60,
+    type: 3}
+  flameRingBPrefab: {fileID: 8668317343915004899, guid: 75ea8ced4719df04aaf9a4cd5d0c818a,
+    type: 3}
+  flameRingCPrefab: {fileID: 3004228404309937067, guid: 9acf3ad905655b94dbbdae4123246be2,
+    type: 3}
+  crossBoltAPrefab: {fileID: 8517633449285005272, guid: ff982b16ea2655f438dc1f83eb419772,
+    type: 3}
+  crossBoltBPrefab: {fileID: 9159194923850923114, guid: f64821c3a448d4345bf2ae35779fb6eb,
+    type: 3}
+  fancyStrikeAPrefab: {fileID: 475710295160197183, guid: de9d8ba1c8cd27d41a48027bdcf6ea82,
+    type: 3}
+  fancyStrikeBPrefab: {fileID: 5319223185873550396, guid: 30502f9fbef109f43b1b2cf54df1ece8,
+    type: 3}
+  lightningStrikeAPrefab: {fileID: 5404171741913856001, guid: 0ff16614a8ad7ef42a18089ec3125014,
+    type: 3}
